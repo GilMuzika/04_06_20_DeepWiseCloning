@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "84Q4CvxSPZS8zd/gxPCoFp+XI++d0SL4xxCK7DGzqQo84Qh6jjxaKb3OrPjoVt66MakJqUqK8j3XdircLv4mAQ==",
+  "success": true,
+  "projectFilePath": "e:\\source\\repos\\04_06_20_DeepWiseCloning\\04_06_20_DeepWiseCloning\\04_06_20_DeepWiseCloning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gil_0\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

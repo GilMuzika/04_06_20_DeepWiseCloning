@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_06_20_DeepWiseCloning", "04_06_20_DeepWiseCloning\04_06_20_DeepWiseCloning.csproj", "{108D9821-3798-4561-AF09-9F4D2AD99649}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_06_20_DeepWiseCloning_NUnitTests", "04_06_20_DeepWiseCloning_NUnitTests\04_06_20_DeepWiseCloning_NUnitTests.csproj", "{42840735-58DD-4414-BB27-1CD3BFC18778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{108D9821-3798-4561-AF09-9F4D2AD99649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108D9821-3798-4561-AF09-9F4D2AD99649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108D9821-3798-4561-AF09-9F4D2AD99649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108D9821-3798-4561-AF09-9F4D2AD99649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42840735-58DD-4414-BB27-1CD3BFC18778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42840735-58DD-4414-BB27-1CD3BFC18778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42840735-58DD-4414-BB27-1CD3BFC18778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42840735-58DD-4414-BB27-1CD3BFC18778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20904288-8BDB-4F8D-A502-367D1348428C}
+	EndGlobalSection
+EndGlobal

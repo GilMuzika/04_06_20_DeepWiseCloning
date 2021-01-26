@@ -1,0 +1,15 @@
+C:\Users\Gil\source\repos\04_06_20_DeepWiseCloning\04_06_20_DeepWiseCloning\obj\Debug\netcoreapp3.1\04_06_20_DeepWiseCloning.csprojAssemblyReference.cache
+C:\Users\Gil\source\repos\04_06_20_DeepWiseCloning\04_06_20_DeepWiseCloning\obj\Debug\netcoreapp3.1\04_06_20_DeepWiseCloning.AssemblyInfoInputs.cache
+C:\Users\Gil\source\repos\04_06_20_DeepWiseCloning\04_06_20_DeepWiseCloning\obj\Debug\netcoreapp3.1\04_06_20_DeepWiseCloning.AssemblyInfo.cs
+C:\Users\Gil\source\repos\04_06_20_DeepWiseCloning\04_06_20_DeepWiseCloning\bin\Debug\netcoreapp3.1\04_06_20_DeepWiseCloning.exe
+C:\Users\Gil\source\repos\04_06_20_DeepWiseCloning\04_06_20_DeepWiseCloning\bin\Debug\netcoreapp3.1\04_06_20_DeepWiseCloning.deps.json
+C:\Users\Gil\source\repos\04_06_20_DeepWiseCloning\04_06_20_DeepWiseCloning\bin\Debug\netcoreapp3.1\04_06_20_DeepWiseCloning.runtimeconfig.json
+C:\Users\Gil\source\repos\04_06_20_DeepWiseCloning\04_06_20_DeepWiseCloning\bin\Debug\netcoreapp3.1\04_06_20_DeepWiseCloning.runtimeconfig.dev.json
+C:\Users\Gil\source\repos\04_06_20_DeepWiseCloning\04_06_20_DeepWiseCloning\bin\Debug\netcoreapp3.1\04_06_20_DeepWiseCloning.dll
+C:\Users\Gil\source\repos\04_06_20_DeepWiseCloning\04_06_20_DeepWiseCloning\bin\Debug\netcoreapp3.1\04_06_20_DeepWiseCloning.pdb
+C:\Users\Gil\source\repos\04_06_20_DeepWiseCloning\04_06_20_DeepWiseCloning\obj\Debug\netcoreapp3.1\04_06_20_DeepWiseCloning.dll
+C:\Users\Gil\source\repos\04_06_20_DeepWiseCloning\04_06_20_DeepWiseCloning\obj\Debug\netcoreapp3.1\04_06_20_DeepWiseCloning.pdb
+C:\Users\Gil\source\repos\04_06_20_DeepWiseCloning\04_06_20_DeepWiseCloning\obj\Debug\netcoreapp3.1\04_06_20_DeepWiseCloning.genruntimeconfig.cache
+C:\Users\Gil\source\repos\04_06_20_DeepWiseCloning\04_06_20_DeepWiseCloning\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gil\source\repos\04_06_20_DeepWiseCloning\04_06_20_DeepWiseCloning\obj\Debug\netcoreapp3.1\04_06_20_DeepWiseCloning.csproj.CoreCompileInputs.cache
+C:\Users\Gil\source\repos\04_06_20_DeepWiseCloning\04_06_20_DeepWiseCloning\obj\Debug\netcoreapp3.1\04_06_20_DeepWiseCloning.csproj.CopyComplete
